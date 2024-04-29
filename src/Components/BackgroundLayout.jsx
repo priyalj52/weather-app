@@ -3,7 +3,7 @@ import { useStateContext } from '../Context'
 //images
 import Clear from '../assets/images/Clear.jpg'
 import Fog from '../assets/images/fog.png'
-import Cloudy from '../assets/images/Cloudyy.webp'
+import Cloudy from '../assets/images/cloudyy.webp'
 import Rainy from '../assets/images/Rainyy.jpg'
 import Snow from '../assets/images/snow.jpg'
 import Stormy from '../assets/images/Stormy.jpg'
